@@ -1,0 +1,45 @@
+/*CSS reset rule*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Lato", sans-serif;
+
+}
+
+
+
+.navbar-toggler {
+	border: none;
+}
+
+#navBar {
+    font-size: 1.5rem;
+    font-weight: 500;
+
+}
+
+#landing {
+    font-size: 1.5rem;
+    font-weight: 500;
+  
+}
+
+#landing h1 {
+    font-weight: 700;
+    font-size: 5rem;
+}
+
+#landing p {
+    font-size: 1.5rem;
+}
+
+
+.logo {
+    height: 6.25rem;
+}
+
+
+
+
