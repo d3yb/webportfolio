@@ -47,6 +47,20 @@ h2  {
     height: 6.25rem;
 }
 
+.carousel-inner {
+    height: 250px;
+
+}
+
+.carousel-inner img {
+    height: 300px;
+    margin: auto;
+}
+
+#ecommerce-img1 {
+    height: 270px;
+}
+
 
 
 
